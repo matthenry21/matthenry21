@@ -30,6 +30,18 @@
 
 ---
 
+## 🏆 Certifications
+
+- 📜 **Google Advanced Data Analytics Professional Certificate** – Coursera (Dec 2025)  
+  Covered advanced data analytics, statistics, machine learning, predictive modeling, and a real-world capstone project.  
+  🔗 https://coursera.org/verify/professional-cert/0Y8SRWW0JR93
+
+- 📜 **IBM Data Science Professional Certificate** – Coursera (Sep 2025)  
+  Hands-on experience with Python, SQL, data analysis, data visualization, machine learning, and an applied capstone project.  
+  🔗 https://coursera.org/verify/professional-cert/FIAMVFN47VT0
+
+--
+
 ## 🚀 Featured Projects
 
 ###  Smart City Waste Classification
