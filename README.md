@@ -11,9 +11,7 @@
 ## Hi 👋 I'm Mathews Henry
 
 🎓 **AI & Data Science Developer**  
-📊 Passionate about building intelligent solutions from data  
-🤖 Interested in Machine Learning, Deep Learning & Computer Vision  
-🚀 Always learning, always experimenting  
+ Passionate about building intelligent solutions from data. Interested in Machine Learning, Deep Learning & Computer Vision.  Always learning, always experimenting  
 
 ---
 
@@ -32,35 +30,17 @@
 
 ## 🏆 Certifications
 
-- 📜 **Google Advanced Data Analytics Professional Certificate** – Coursera (Dec 2025)  
+-  **Google Advanced Data Analytics Professional Certificate** – Coursera (Dec 2025)  
   Covered advanced data analytics, statistics, machine learning, predictive modeling, and a real-world capstone project.  
   🔗 https://coursera.org/verify/professional-cert/0Y8SRWW0JR93
 
-- 📜 **IBM Data Science Professional Certificate** – Coursera (Sep 2025)  
+-  **IBM Data Science Professional Certificate** – Coursera (Sep 2025)  
   Hands-on experience with Python, SQL, data analysis, data visualization, machine learning, and an applied capstone project.  
   🔗 https://coursera.org/verify/professional-cert/FIAMVFN47VT0
 
 --
 
-## 🚀 Featured Projects
-
-###  Smart City Waste Classification
-🔹 Deep Learning based  waste classification for smart cities  
-🔹 used CNN transfer learning mobilenetv2 trained on two types of dataset to meet hierachical classification task.
-
-🔗 https://github.com/matthenry21/Smart_City_Waste_classification  
-
----
-
-###  Tomato Leaf Disease Detection
-🔹 Computer Vision model for crop disease detection  
-🔹 Early diagnosis for smart agriculture  
-
-🔗 https://github.com/matthenry21/tomato-leaf-disease-detection-  
-
----
-
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=matthenry21&show_icons=true&theme=radical" height="165"/>
@@ -73,7 +53,7 @@
 
 ---
 
-## 👀 Profile Visitors
+##  Profile Visitors
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=matthenry21&color=9B59B6&style=for-the-badge"/>
@@ -83,7 +63,7 @@
 
 ## 🤝 Let’s Connect
 
-💼 Open to AI & Data Science opportunities  
-🦾 Always excited to collaborate on real-world ML projects  
+ Open to AI & Data Science opportunities  
+Always excited to collaborate on real-world ML projects  
 
 ⭐ *If you like my work, consider starring my repositories!*
