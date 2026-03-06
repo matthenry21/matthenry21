@@ -24,7 +24,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" width="50"/>
-  <img src="https://cdn.simpleicons.org/vercel" width="50"/>
+  <img src="https://cdn.simpleicons.org/vercel/ffffff" width="50"/>
   <img src="https://cdn.simpleicons.org/huggingface/ffcc4d" width="50"/>
 </p>
 
