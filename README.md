@@ -10,8 +10,8 @@
 
 ## Hi 👋 I'm Mathews Henry
 
-🎓 **AI & Data Science Developer**  
- Passionate about building intelligent solutions from data. Interested in Machine Learning, Deep Learning & Computer Vision.  Always learning, always experimenting  
+ **AI & Data Science Developer**  
+ startup creator of visioncrop AI. Passionate about building intelligent solutions from data. Interested in Machine Learning, Deep Learning & Computer Vision. always learning and experimenting.
 
 ---
 
@@ -24,6 +24,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/huggingface/keras-original.svg" width="50"/>
 </p>
 
 ---
