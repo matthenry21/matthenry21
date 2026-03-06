@@ -26,6 +26,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" width="50"/>
   <img src="https://cdn.simpleicons.org/vercel/ffffff" width="50"/>
   <img src="https://cdn.simpleicons.org/huggingface/ffcc4d" width="50"/>
+  <img src="https://cdn.simpleicons.org/flask/ffffff" width="50"/>
+
 </p>
 
 ---
